@@ -1,0 +1,10 @@
+name: ArcadeTosochu
+main: io.github.densyakun.bukkit.arcadetosochu.Main
+version: 1.0
+author: Densyakun
+website: http://densyakuncreate.wiki.fc2.com/
+depend: [MiniGameManager]
+softdepend: [Multiverse-Core]
+commands:
+   prize:
+   jishu:

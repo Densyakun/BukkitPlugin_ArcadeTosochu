@@ -1,0 +1,8 @@
+lobby-world: world
+
+entry-time: 60
+start-time: 10
+end-time: 3600
+stop-time: 5
+startprize: 1.0
+prizepersecond: 0.1
